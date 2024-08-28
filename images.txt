@@ -6,3 +6,15 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 sickcodes/docker-osx:ventura
+
+xiaoyaliu/alist
+haroldli/xiaoya-tvbox
+
+ghcr.io/monlor/xiaoya-alist
+ghcr.io/monlor/xiaoya-metadata
+ghcr.io/monlor/xiaoya-embyserver
+ghcr.io/monlor/xiaoya-jellyfin
+
+homeassistant/home-assistant:latest
+
+moelin/1panel:latest
